@@ -1,0 +1,16 @@
+Firefox:
+
+XPath -> //input[@id=‘name’]
+CSS -> #name
+
+Chrome:
+
+XPath -> //input[@id=‘name’]
+CSS -> #name
+
+Ranorex Selocity:
+
+Xpath -> //input[@id='name']
+CSS -> #name
+
+test
