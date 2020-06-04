@@ -12,3 +12,5 @@ Ranorex Selocity:
 
 Xpath -> //input[@id='name']
 CSS -> #name
+
+test
